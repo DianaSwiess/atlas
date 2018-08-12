@@ -1,0 +1,218 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 11/08/2018, 09:34:08 PM
+    Author     : Diana Margarita
+*/
+*{padding: 0px;
+      margin:0px;
+}
+body{ width:100%;
+ height: 100%;
+background-image:url(imagen/jardin3.jpg)
+  -webkit-background-size: 100% 100%;           /* Safari 3.0 */
+     -moz-background-size: 100% 100%;           /* Gecko 1.9.2 (Firefox 3.6) */
+       -o-background-size: 100% 100%;           /* Opera 9.5 */
+          background-size: 100% 100%;           /* Gecko 2.0 (Firefox 4.0) and other CSS3-compliant browsers */
+ 
+  -moz-border-image: url(imagen/jardin3.jpg) 0;    /* Gecko 1.9.1 (Firefox 3.5) */
+
+}
+
+.contenedor{width:90%;
+   max-width:10000px;
+    height:90%;
+    margin:0 auto;
+box-sizing:border-box;}
+
+#bloque{
+    width:90%;
+    height:200px;
+    margin: auto;
+    margin-top:2px;
+    margin-left:3%;
+    margin-right:10%;
+    margin-bottom:0px;
+    text-align:left;
+    float:left; 
+    cellpadding:4px;
+    box-sizing:border-box;
+}
+img{
+    margin: auto;
+    margin-top:20px;
+    margin-left:5%;
+    margin-right:0%;
+    margin-bottom:0px;
+    height: 100px;
+
+}
+
+header{
+    height:500px;
+    width: 100%;
+    line-height:80px;
+    margin-bottom:5px;
+    text-align:center;
+    cellpadding:4px;
+    box-sizing:border-box;
+}
+header nav{
+    float:none;
+    text-align:center;
+   
+}
+
+header nav ul li{
+    display:inline-block;
+    padding:5 30px;
+}
+header nav ul li a{
+text-decoration:blueviolet;
+transition: all 02s; 
+}
+header nav ul li a:hover{
+color:dimgray;
+
+
+
+}
+
+#cabecera{width:100%; 
+height: 60px; 
+background-color:cadetblue;
+margin-left:0%;
+margin-right:8%;
+margin-bottom:0px; 
+text-align: center;
+padding:4px;   
+box-sizing:border-box;    
+}
+
+#contenido{width:90%;
+float:left;
+height:900px; 
+background-color:transparent;
+margin-bottom:1px;
+margin-left:3%;
+margin-right:10%;
+text-align: center;
+padding:4px;
+box-shadow:4px;
+cellpadding:4px;
+cellspacing:4px;    
+box-sizing:border-box;}
+
+#main{
+float:left;
+height:100px; 
+margin-bottom:1px;
+margin-left:3%;
+margin-right:10%;
+text-align: center;
+padding:4px;
+box-shadow:4px;
+cellpadding:4px;
+cellspacing:4px;    
+box-sizing:border-box;}
+
+
+#footer {
+position: relative;
+/* Altura total del footer en px con valor negativo */
+background:darkseagreen; 
+text-align:center; 
+color:white;
+float:left; 
+width:100%;
+height:30px;
+cellpadding:4px;
+cellspacing:4px;
+mrgin-top:0px;
+margin-left:0%;
+margin-right:0%;
+margin-bottom:0px;
+text-align: center;
+box-sizing:border-box;}    
+
+           
+h1{
+font-family:serif;
+font-size:50px;
+color:white;
+text-align:center;}
+
+h2{font-family:inherit;
+font-size:50px;
+color:white;
+text-align:center;}
+
+h3{
+font-family:inherit;
+font-size:30px;
+color:whitesmoke;
+text-align:center;
+}
+a:link{color:white;}
+a:visited{color:white;}
+a:determinate{color:white;} 
+abbr:expanded{color:aqua;}
+ol{list-style:lower-latin}
+
+
+@media screen and(max-width:500px){
+    body{
+        font-size:10px;
+       
+    }
+   .contenedor{
+       width:100%;
+    }
+        #contenido{
+            width:100%;
+            height: 100px;;
+             font-size:10px;
+    }
+    
+    .main{
+        width:100%;
+       }
+       #bloque{width:100%;
+           font-size:8px;
+        }
+header{width:100%;
+    font-size:10px;
+    }
+    #cabecera{
+        width:100%;
+        font-size:10px;
+    }
+    
+h1{
+font-family:serif;
+font-size:10px;
+color:blue;
+text-align:left;}
+
+h2{font-family:inherit;
+font-size:50px;
+color:white;
+text-align:left;}
+
+h3{
+font-family:inherit;
+font-size:30px;
+color:whitesmoke;
+text-align:left;
+}
+    
+a:link{color:blue;}
+a:visited{color:blueviolet;}
+a:determinate{color:white;} 
+abbr:expanded{color:aqua;}
+ol{list-style:lower-latin}
+
+
