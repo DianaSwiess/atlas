@@ -43,11 +43,11 @@ box-sizing:border-box;}
 }
 img{
     margin: auto;
-    margin-top:10px;
+    margin-top:20px;
     margin-left:5%;
     margin-right:0%;
     margin-bottom:0px;
-    height: 100px;
+    height:100px;
 
 }
 
@@ -74,11 +74,9 @@ header nav ul li a{
 text-decoration:blueviolet;
 transition: all 02s; 
 }
+
 header nav ul li a:hover{
 color:dimgray;
-
-
-
 }
 
 #cabecera{width:100%; 
@@ -87,7 +85,7 @@ background-color:cadetblue;
 margin-left:0%;
 margin-right:8%;
 margin-bottom:0px; 
-text-align: center;
+text-align:center;
 padding:4px;   
 box-sizing:border-box;    
 }
@@ -209,8 +207,8 @@ color:whitesmoke;
 text-align:left;
 }
     
-a:link{color:blue;}
-a:visited{color:blueviolet;}
+a:link{color:white;}
+a:visited{color:whitesmoke;}
 a:determinate{color:white;} 
 abbr:expanded{color:aqua;}
 ol{list-style:lower-latin}
