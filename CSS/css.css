@@ -59,5 +59,17 @@ img{
     height: 100px;
 
 }
+#main{
+float:left;
+height:100px; 
+margin-bottom:1px;
+margin-left:3%;
+margin-right:10%;
+text-align: center;
+padding:4px;
+box-shadow:4px;
+cellpadding:4px;
+cellspacing:4px;    
+box-sizing:border-box;}
 
 
