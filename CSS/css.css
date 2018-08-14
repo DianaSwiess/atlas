@@ -63,7 +63,7 @@ img{
     margin-bottom:0px;
     height: 100px;
     border-radius:10px;
-    box-shadow:5px 5px 0px ##E5E7E9;
+    box-shadow:5px 5px 0px #424242;
 
 }
 #contenido{ width:90%;
@@ -164,7 +164,7 @@ ol{list-style:lower-latin}
 
 @media screen and (max-width:600px){
     body{ 
-    
+    font-size:10px;
     }
     
    .contenedor{
@@ -197,7 +197,7 @@ header{
     
 }
    @media screen and (max-width:400px){
-       body{
+       body{font-size:10px;
         
        }
         .contenedor{
@@ -226,7 +226,7 @@ color:whitesmoke;
 text-align:center;}
 }
  @media screen and (max-width:100px){
-     body{  
+     body{  font-size:10px;
 } 
         .contenedor{
        width:100%;
