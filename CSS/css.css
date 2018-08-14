@@ -144,40 +144,34 @@ a:determinate{color:white;}
 abbr:expanded{color:aqua;}
 ol{list-style:lower-latin}
 
-@media screen and (max-width:800px){
+@media screen and (max-width:600px){
     body{ 
       font-size:10px;
+        box-sizing:border-box;
     }
    .contenedor{
        width:100%;
        box-sizing:border-box;
     }
-    #cabecera{ font-size:10px;
-        box-sizing:border-box;
-    }
+   
     #contenido{
      width:100%;
      font-size:10px;
      box-sizing:border-box;
     }
-    #bloque{
-    width:100%;
-    box-sizing:border-box;
-        }
-header{
-   width:100%;
-   box-sizing:border-box; 
-    }
-    .main{
-        width:100%;
-        box-sizing:border-box;
+  #footer {
+    display:none;
        }
+    
 }
    @media screen and (max-width:400px){
         .contenedor{
        width:100%;
        box-sizing:border-box;
     }
+       #cabecera{
+           font-size:10px;
+       }
        #footer {
     display:none;
        }
