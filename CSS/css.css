@@ -222,8 +222,7 @@ color:whitesmoke;
 text-align:center;}
 }
  @media screen and (max-width:100px){
-     body{  background-image:url(imagen/jardin6.jpg)
-         background-size:cover;
+     body{  
 } 
         .contenedor{
        width:100%;
