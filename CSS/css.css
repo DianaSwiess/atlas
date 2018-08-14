@@ -145,7 +145,7 @@ ol{list-style:lower-latin}
 
 @media screen and (max-width: 600px){
     body{ 
-    background:beige;
+      font-size:10px;
     }
    .contenedor{
        width:100%;
