@@ -153,6 +153,11 @@ ol{list-style:lower-latin}
        width:100%;
        box-sizing:border-box;
     }
+    #cabecera{
+    width:100%;
+        font-size:10px;
+        box-sizing:border-box;
+    }
    
     #contenido{
      width:100%;
@@ -170,12 +175,27 @@ ol{list-style:lower-latin}
        box-sizing:border-box;
     }
        #cabecera{
-           font-size:10px;
+    width:100%;
+        font-size:10px;
+        box-sizing:border-box;
        }
        #footer {
     display:none;
        }
 }
-
+ @media screen and (max-width:200px){
+        .contenedor{
+       width:100%;
+       box-sizing:border-box;
+    }
+       #cabecera{
+    width:100%;
+        font-size:10px;
+        box-sizing:border-box;
+       }
+       #footer {
+    display:none;
+       }
+}
 
 
