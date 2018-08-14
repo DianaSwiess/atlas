@@ -163,21 +163,31 @@ ol{list-style:lower-latin}
      font-size:10px;
        
     }
+    
    .contenedor{
        width:100%;
        box-sizing:border-box;
     }
+    #contenido{
+     width:100%;
+     font-size:12px;
+     box-sizing:border-box;
+    }
+    #bloque{
+    width:100%;
+    box-sizing:border-box;
+        }
+header{
+   width:100%;
+   box-sizing:border-box; 
+    }
+
     #cabecera{
     width:100%;
         font-size:10px;
         box-sizing:border-box;
     }
    
-    #contenido{
-     width:100%;
-     font-size:10px;
-     box-sizing:border-box;
-    }
   #footer {
     display:none;
        }
