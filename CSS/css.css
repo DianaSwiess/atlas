@@ -201,6 +201,12 @@ font-size:30px;
 color:white;
 text-align:center;}
 }
+ h2{
+font-family:serif;
+font-size:20px;
+color:whitesmoke;
+text-align:center;}
+}
  @media screen and (max-width:200px){
         .contenedor{
        width:100%;
