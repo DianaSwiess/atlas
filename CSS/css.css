@@ -192,6 +192,10 @@ ol{list-style:lower-latin}
         font-size:10px;
         box-sizing:border-box;
        }
+       #bloque{
+    display:none;
+}
+
        #footer {
     display:none;
        }
@@ -226,6 +230,8 @@ font-size:30px;
 color:white;
 text-align:center;}
 }
+#bloque{
+    display:none;
 }
 
-
+}
