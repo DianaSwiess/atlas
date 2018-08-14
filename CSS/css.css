@@ -28,8 +28,9 @@ margin-right:8%;
 margin-bottom:0px; 
  margin-top:0%;  
 text-align: center;
-padding:1px;   
-box-sizing:border-box;    
+padding:1px;  
+box-sizing:border-box;   
+   
 }
 
 .contenedor{width:90%;
@@ -143,7 +144,7 @@ a:determinate{color:white;}
 abbr:expanded{color:aqua;}
 ol{list-style:lower-latin}
 
-@media screen and (max-width: 600px){
+@media screen and (max-width:500px){
     body{ 
       font-size:10px;
     }
@@ -151,9 +152,12 @@ ol{list-style:lower-latin}
        width:100%;
        box-sizing:border-box;
     }
+    #cabecera{ font-size:10px;
+        box-sizing:border-box;
+    }
     #contenido{
      width:100%;
-     font-size:12px;
+     font-size:10px;
      box-sizing:border-box;
     }
     #bloque{
