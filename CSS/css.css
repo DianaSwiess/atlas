@@ -162,8 +162,7 @@ ol{list-style:lower-latin}
 
 @media screen and (max-width:600px){
     body{ 
-     font-size:10px;
-       
+    
     }
     
    .contenedor{
@@ -197,7 +196,7 @@ header{
 }
    @media screen and (max-width:400px){
        body{
-        font-size:10px;   
+        
        }
         .contenedor{
        width:100%;
@@ -225,8 +224,7 @@ color:whitesmoke;
 text-align:center;}
 }
  @media screen and (max-width:200px){
-     body{ font-size:10px;
- 
+     body{ 
 } 
         .contenedor{
        width:100%;
