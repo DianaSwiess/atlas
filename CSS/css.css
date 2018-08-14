@@ -195,6 +195,11 @@ ol{list-style:lower-latin}
        #footer {
     display:none;
        }
+       h1{
+font-family:serif;
+font-size:10px;
+color:white;
+text-align:center;}
 }
  @media screen and (max-width:200px){
         .contenedor{
