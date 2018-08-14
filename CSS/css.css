@@ -20,4 +20,10 @@ body{ width:100%;
  
   -moz-border-image: url(imagen/jardin6.jpg) 0;    /* Gecko 1.9.1 (Firefox 3.5) */
 } 
+.contenedor{width:90%;
+   max-width:10000px;
+    height:90%;
+    margin:0 auto;
+box-sizing:border-box;}
+
 
