@@ -59,6 +59,33 @@ img{
     height: 100px;
 
 }
+header{
+    height:500px;
+    width: 100%;
+    line-height:80px;
+    margin-bottom:5px;
+    text-align:center;
+    cellpadding:4px;
+    box-sizing:border-box;
+}
+header nav{
+    float:none;
+    text-align:center;
+   
+}
+
+header nav ul li{
+    display:inline-block;
+    padding:5 30px;
+}
+header nav ul li a{
+text-decoration:blueviolet;
+transition: all 02s; 
+}
+header nav ul li a:hover{
+color:dimgray;
+}
+
 #main{
 float:left;
 height:100px; 
@@ -71,6 +98,7 @@ box-shadow:4px;
 cellpadding:4px;
 cellspacing:4px;    
 box-sizing:border-box;}
+
 
 #footer {
 position: relative;
@@ -113,6 +141,30 @@ a:visited{color:white;}
 a:determinate{color:white;} 
 abbr:expanded{color:aqua;}
 ol{list-style:lower-latin}
+
+@media screen and (max-width: 600px){
+    body{ 
+    background:beige;
+    }
+   .contenedor{
+       width:100%;
+       box-sizing:border-box;
+    }
+    #contenido{
+     width:100%;
+     font-size:12px;
+     box-sizing:border-box;
+    }
+    #bloque{
+    width:100%;
+    box-sizing:border-box;
+        }
+header{
+   width:100%;
+   box-sizing:border-box; 
+    }
+
+}
 
 
 
