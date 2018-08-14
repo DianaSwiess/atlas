@@ -43,7 +43,7 @@ box-sizing:border-box;}
     width:90%;
     height:200px;
     margin: auto;
-    margin-top:2px;
+    margin-top:10px;
     margin-left:3%;
     margin-right:10%;
     margin-bottom:0px;
@@ -192,9 +192,6 @@ ol{list-style:lower-latin}
         font-size:10px;
         box-sizing:border-box;
        }
-       #bloque{
-    display:none;
-}
 
        #footer {
     display:none;
