@@ -215,5 +215,8 @@ a:visited{color:blueviolet;}
 a:determinate{color:white;} 
 abbr:expanded{color:aqua;}
 ol{list-style:lower-latin}
+    footer{
+        display:none;}
+}
 
 
