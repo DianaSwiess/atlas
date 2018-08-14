@@ -26,4 +26,27 @@ body{ width:100%;
     margin:0 auto;
 box-sizing:border-box;}
 
+#bloque{
+    width:90%;
+    height:200px;
+    margin: auto;
+    margin-top:2px;
+    margin-left:3%;
+    margin-right:10%;
+    margin-bottom:0px;
+    text-align:left;
+    float:left; 
+    cellpadding:4px;
+    box-sizing:border-box;
+}
+img{
+    margin: auto;
+    margin-top:20px;
+    margin-left:5%;
+    margin-right:0%;
+    margin-bottom:0px;
+    height: 100px;
+
+}
+
 
