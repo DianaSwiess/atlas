@@ -170,7 +170,7 @@ ol{list-style:lower-latin}
 
 @media screen and (max-width: 600px){
     body{ 
-	    width:100%;
+	    
     font-size:12px;
     }
    .contenedor{
@@ -205,7 +205,7 @@ text-align:center;
 }
     
 @media screen and(max-width:500px){
-    body{width:100px;
+    body{
         font-size:10px;
     }
     .contenedor{width:100%;
@@ -253,7 +253,7 @@ box-sizing:border-box;
 }  
 }
 @media screen and(max-width:300px){
-    body{width:100px;
+    body{
         font-size:10px;
     }
     .contenedor{width:100%;
