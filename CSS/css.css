@@ -113,7 +113,7 @@ height:100px;
 margin-bottom:1px;
 margin-left:3%;
 margin-right:10%;
-margin-top:20px;
+margin-top:10px;
 text-align: center;
 padding:4px;
 box-shadow:4px;
@@ -190,6 +190,13 @@ header{
      width:100%;
    box-sizing:border-box; 
     }
+     h1{
+font-family:serif;
+font-size:10px;
+color:white;
+text-align:center;
+  }
+    
 #footer{display:none;
 }
 }
@@ -201,7 +208,7 @@ header{
     
     h1{
 font-family:serif;
-font-size:20px;
+font-size:10px;
 color:white;
 text-align:center;
   }
