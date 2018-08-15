@@ -166,12 +166,17 @@ ol{list-style:lower-latin}
     body{
         font-size:10px;
     }
+    
     h1{
 font-family:serif;
 font-size:20px;
 color:white;
 text-align:center;}
 
-        
+ #cabecera{
+ width:100%; 
+text-align: center;
+box-sizing:border-box;    
+}       
     }
    
