@@ -14,13 +14,13 @@ and open the template in the editor.
 
 body{ width:100%;
  height: 100%;
-background-image:
-    background-repet:no-repeat;
+background-image:background-repet:no-repeat;
     background-size:cover;
     background-attachment:fixed;
     margin:0 auto;
     padding:0px;
     position:relative;
+ 
 }
 
 .contenedor{width:80%;
