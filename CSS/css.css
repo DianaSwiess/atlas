@@ -189,7 +189,6 @@ ol{list-style:lower-latin}
 
     #cabecera{
         width:100%;
-        font-size:10px;
         box-sizing:border-box;
     }
     
@@ -211,15 +210,10 @@ color:whitesmoke;
 text-align:left;
 }
     
-a:link{color:blue;}
-a:visited{color:blueviolet;}
-a:determinate{color:white;} 
-abbr:expanded{color:aqua;}
-ol{list-style:lower-latin}
-    
     footer{
         
-        display:none;}
+        display:none;
+    }
 }
 
 
