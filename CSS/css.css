@@ -10,7 +10,7 @@ and open the template in the editor.
 *{padding: 0px;
       margin:0px;
 }
-body{ width:100%;
+body{ width:100%;height: 100%;
 background-image:url(imagen/jardin6.jpg);
   -webkit-background-size: 100% 100%;           /* Safari 3.0 */
      -moz-background-size: 100% 100%;           /* Gecko 1.9.2 (Firefox 3.6) */
