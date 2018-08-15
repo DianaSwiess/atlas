@@ -11,8 +11,7 @@ and open the template in the editor.
       margin:0px;
 }
 body{ width:100%;
-background-image:
-  background: url(imagen.png) no-repeat center center fixed;
+background-image:url(imagen/jardin6.jpg) no-repeat center center fixed;
 -webkit-background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;
