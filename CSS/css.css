@@ -167,8 +167,7 @@ abbr:expanded{color:aqua;}
 ol{list-style:lower-latin}
 
 @media screen and (max-width: 600px){
-    body{ 
-	    
+    body{    
     font-size:12px;
     }
    .contenedor{
@@ -207,7 +206,7 @@ text-align:center;
         font-size:10px;
     }
     .contenedor{width:100%;
-box-sizing:border-box;}
+}
     h1{
 font-family:serif;
 font-size:30px;
@@ -255,7 +254,7 @@ box-sizing:border-box;
         font-size:10px;
     }
     .contenedor{width:100%;
-box-sizing:border-box;}
+}
     h1{
 font-family:serif;
 font-size:30px;
