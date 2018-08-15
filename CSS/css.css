@@ -177,6 +177,14 @@ ol{list-style:lower-latin}
              font-size:10px;
              box-sizing:border-box;
     }
+    #bloque{
+       {width:100%;
+           font-size:8px;
+           box-sizing:border-box; 
+    }
+        header{
+             box-sizing:border-box; 
+        }
     
     .main{
         width:100%;
@@ -206,7 +214,7 @@ text-align:left;}
 
 h3{
 font-family:inherit;
-font-size:30px;
+font-size:20px;
 color:whitesmoke;
 text-align:left;
 }
