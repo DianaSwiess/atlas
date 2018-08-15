@@ -30,7 +30,7 @@ box-sizing:border-box;}
 
 #bloque{
     width:90%;
-    height:200px;
+    height:10%;
     margin: auto;
     margin-top:2px;
     margin-left:3%;
@@ -41,6 +41,19 @@ box-sizing:border-box;}
     cellpadding:4px;
     box-sizing:border-box;
 }
+
+#cabecera{width:100%; 
+height: 15%; 
+background-color:cadetblue;
+margin-left:0%;
+margin-right:8%;
+margin-bottom:0px; 
+margin-top: 0%;
+text-align: center;
+padding:4px;   
+box-sizing:border-box;    
+}
+
 img{
     margin: auto;
     margin-top:20px;
@@ -77,18 +90,6 @@ transition: all 02s;
 }
 header nav ul li a:hover{
 color:dimgray;
-}
-
-#cabecera{width:100%; 
-height: 20%; 
-background-color:cadetblue;
-margin-left:0%;
-margin-right:8%;
-margin-bottom:0px; 
-margin-top: 0%;
-text-align: center;
-padding:4px;   
-box-sizing:border-box;    
 }
 
 #contenido{width:90%;
@@ -172,11 +173,22 @@ font-family:serif;
 font-size:10px;
 color:white;
 text-align:center;}
+    
+    h2{font-family:inherit;
+font-size:20px;
+color:white;
+text-align:center;}
+
 
  #cabecera{
  width:100%; 
 text-align: center;
 box-sizing:border-box;    
-}       
+}   
+    bloque{
+         width:100%; 
+text-align: center;
+box-sizing:border-box;     
+    }
     }
    
