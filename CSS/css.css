@@ -12,12 +12,11 @@ and open the template in the editor.
 }
 body{ width:100%;
 background-image:
-  -webkit-background-size: 100% 100%;           /* Safari 3.0 */
-     -moz-background-size: 100% 100%;           /* Gecko 1.9.2 (Firefox 3.6) */
-       -o-background-size: 100% 100%;           /* Opera 9.5 */
-          background-size: 100% 100%;           /* Gecko 2.0 (Firefox 4.0) and other CSS3-compliant browsers */
- 
-  -moz-border-image: url(imagen/jardin6.jpg) 0;    /* Gecko 1.9.1 (Firefox 3.5) */
+  background: url(imagen.png) no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
 
 }
 .contenedor{width:80%;
