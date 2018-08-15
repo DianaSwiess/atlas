@@ -178,7 +178,11 @@ text-align:center;}
 font-size:10px;
 color:white;
 text-align:center;}
-
+    
+h3{font-size:10px;
+color:white;
+text-align:center;}
+    }
 
  #cabecera{
  width:100%; 
@@ -190,10 +194,16 @@ box-sizing:border-box;
         width:100%; 
         box-sizing:border-box;
     }
-    bloque{
+    #bloque{
          width:100%; 
 text-align: center;
 box-sizing:border-box;     
     }
+    #contenido{
+         width:100%; 
+text-align: center;
+        font-size:10px;
+box-sizing:border-box;  
     }
+}
    
