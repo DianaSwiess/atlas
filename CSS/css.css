@@ -172,7 +172,8 @@ ol{list-style:lower-latin}
 font-family:serif;
 font-size:5px;
 color:white;
-text-align:center;}
+text-align:center;
+box-sizing:border-box;  }
     
     h2{font-family:inherit;
 font-size:10px;
