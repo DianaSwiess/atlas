@@ -19,6 +19,15 @@ background-image:
 -moz-background-size: cover;
 -o-background-size: cover;
 background-size: cover;
+   background-repeat:no-repeat;
+    background-size:100% 100%;
+    background-attachment:fixed;
+    background-color:#424242;
+    margin:0 auto;
+    padding:0px;
+    position:relative;
+}
+ 
 
 }
 
