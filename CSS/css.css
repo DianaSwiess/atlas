@@ -291,4 +291,11 @@ text-align:center;
 #footer{display:none;
 }
 }
+@media only screen and (max-width: 767px) {
+
+body {
+
+background-image: url(imagen/jardin6.jpg);
+
+}
      
