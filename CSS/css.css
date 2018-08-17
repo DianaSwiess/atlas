@@ -291,7 +291,7 @@ text-align:center;
 #footer{display:none;
 }
 }
-@media only screen and (max-width: 767px) {
+@media screen and(max-width: 767px) {
 
 body {
 
