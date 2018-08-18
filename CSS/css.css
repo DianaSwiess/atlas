@@ -14,7 +14,7 @@ and open the template in the editor.
 
 body{ width:100%;
  height: 100%;
-background:url(../imagen/jardin1.jpg) fixed;
+background:url(../imagen/jardin1.jpg);
  -webkit-background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;
@@ -38,7 +38,7 @@ box-sizing:border-box;}
      background-image:url(../imagen/jardin6.jpg);
      background-size:cover;
     width:100%;
-    height:50%;
+    height:35%;
     margin: auto;
     margin-top:30px;
     margin-left:0%;
@@ -49,6 +49,7 @@ box-sizing:border-box;}
     padding:20px;
     box-sizing:border-box;
 }
+
 
 
 
@@ -73,22 +74,21 @@ img{
     border-radius:10px;
     box-shadow:2 5px #424242;
 }
-#contenido{width:60%;
-background:url(../imagen/jardin3.jpg);
-float:left;
-height:560px; 
-background-color:transparent;
-margin-top:20px;
-margin-bottom:1px;;
-margin-left:10%;
-margin-right:20%;
-text-align: center;
-padding:4px;
-box-shadow:4px;
-cellpadding:4px;
-cellspacing:4px;  
-padding:20px;
-box-sizing:border-box;}
+#contenido{
+    background:url(../imagen/jardin4.jpg);
+    background-size:cover;
+    width:100%;
+    height:35%;
+    margin: auto;
+    margin-top:0px;
+    margin-left:0%;
+    margin-right:0%;
+    margin-bottom:0px;
+    text-align:left;
+    cellpadding:20px;
+    padding:20px;
+    box-sizing:border-box;
+}
 
 
 header{
@@ -135,20 +135,19 @@ color:dimgray;
 
 .main{
 background-image:url(../imagen/jardin.jpg);
-float:left;
-width: 80%;
-height:200px; 
-margin-bottom:1px;
-margin-left:10%;
-margin-right:40%;
-margin-top:10px;
-text-align: center;
-box-shadow:4px;
-cellpadding:4px;
-cellspacing:4px;  
-padding:4px;
-box-sizing:border-box;}
-
+ background-size:cover;
+    width:100%;
+    height:35%;
+    margin: auto;
+    margin-top:0px;
+    margin-left:0%;
+    margin-right:0%;
+    margin-bottom:0px;
+    text-align:left;
+    cellpadding:20px;
+    padding:20px;
+    box-sizing:border-box;
+}
 #footer {
 position: relative;
 /* Altura total del footer en px con valor negativo */
