@@ -20,7 +20,7 @@ background:url(../imagen/jardin1.jpg);
 -o-background-size: cover;
 background-size: cover;
 background-color:#424242;
-background-attachment:scroll;
+background-attachment:fixed;
 margin:0 auto;
 padding:0px;
 position:relative;
