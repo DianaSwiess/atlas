@@ -78,7 +78,7 @@ img{
     background:url(../imagen/jardin4.jpg);
     background-size:cover;
     width:80%;
-    height:800px;
+    height:1000px;
     margin: auto;
     margin-top:0px;
     margin-left:15%;
@@ -268,9 +268,6 @@ header{
    box-sizing:border-box; 
     }
      
-    
-#footer{display:none;
-}
 }
     
 @media screen and(max-width:600px){
