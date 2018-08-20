@@ -170,7 +170,7 @@ box-sizing:border-box;}
            
 h1{
 font-family:serif;
-font-size:30px;
+font-size:50px;
 color:white;
 text-align:center;}
 
@@ -181,7 +181,7 @@ text-align:center;}
 
 h3{
 font-family:inherit;
-font-size:20px;
+font-size:25px;
 color:whitesmoke;
 text-align:center;
 }
@@ -192,11 +192,7 @@ abbr:expanded{color:aqua;}
 ol{list-style:lower-latin}
 
 @media screen and (max-width:400px){
-    body{    
-        font-size:10px;
-    }
-   
-    h1{
+  h1{
 font-family:serif;
 font-size:30px;
 color:white;
@@ -206,7 +202,6 @@ color:white;
 font-family:serif;
 font-size:25px;
 color:white;
-    font-size:12px;
     }
      h3{
 font-family:serif;
@@ -244,15 +239,15 @@ header{
   
       h1{
 font-family:serif;
-font-size:25px;
+font-size:30px;
 color:white;
-    font-size:12px;
+  
     }
      h2{
 font-family:serif;
 font-size:25px;
 color:white;
-    font-size:12px;
+
     }
      h3{
 font-family:serif;
@@ -287,7 +282,7 @@ header{
   
      h1{
 font-family:serif;
-font-size:25px;
+font-size:30px;
 color:white;
     
     }
