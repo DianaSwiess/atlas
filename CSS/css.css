@@ -198,13 +198,13 @@ ol{list-style:lower-latin}
    
     h1{
 font-family:serif;
-font-size:25px;
+font-size:30px;
 color:white;
     font-size:12px;
     }
      h2{
 font-family:serif;
-font-size:20px;
+font-size:25px;
 color:white;
     font-size:12px;
     }
@@ -212,7 +212,7 @@ color:white;
 font-family:serif;
 font-size:20px;
 color:white;
-    font-size:12px;
+   
     }
    .contenedor{
        width:100%;
@@ -241,10 +241,7 @@ header{
     
 @media screen and(max-width:500px){
     
-    body{    
-        font-size:10px;
-    }
-   
+  
       h1{
 font-family:serif;
 font-size:25px;
@@ -253,7 +250,7 @@ color:white;
     }
      h2{
 font-family:serif;
-font-size:20px;
+font-size:25px;
 color:white;
     font-size:12px;
     }
@@ -261,7 +258,7 @@ color:white;
 font-family:serif;
 font-size:20px;
 color:white;
-    font-size:12px;
+   
     }
    .contenedor{
        width:100%;
@@ -287,27 +284,24 @@ header{
     
 @media screen and(max-width:600px){
    
-   body{    
-        font-size:10px;
-    }
-   
+  
      h1{
 font-family:serif;
 font-size:25px;
 color:white;
-    font-size:12px;
+    
     }
      h2{
 font-family:serif;
 font-size:20px;
 color:white;
-    font-size:12px;
+  
     }
      h3{
 font-family:serif;
 font-size:20px;
 color:white;
-    font-size:12px;
+  
     }
    .contenedor{
        width:100%;
