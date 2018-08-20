@@ -41,7 +41,7 @@ box-sizing:border-box;}
     height:350px;
     margin: auto;
     margin-top:30px;
-    margin-left:15%;
+    margin-left:10%;
     margin-right:20%;
     margin-bottom:0px;
     text-align:left;
@@ -57,7 +57,7 @@ box-sizing:border-box;}
 height:60px; 
 background-color:cadetblue;
 margin-left:0%;
-margin-right:8%;
+margin-right:0%;
 margin-bottom:0px; 
 margin-top: 0%;
 text-align: center;  
@@ -67,7 +67,7 @@ box-sizing:border-box;
 img{
     margin: auto;
     margin-top:20px;
-    margin-left:20%;
+    margin-left:15%;
     margin-right:0%;
     margin-bottom:0px;
     height: 100px;
@@ -82,7 +82,7 @@ img{
     height:1400px;
     margin: auto;
     margin-top:0px;
-    margin-left:15%;
+    margin-left:10%;
     margin-right:20%;
     margin-bottom:0px;
     text-align:left;
@@ -141,7 +141,7 @@ background-image:url(../imagen/jardin.jpg);
     height:700px;
     margin: auto;
     margin-top:0px;
-    margin-left:15%;
+    margin-left:10%;
     margin-right:20%;
     margin-bottom:0px;
     text-align:left;
