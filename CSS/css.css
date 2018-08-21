@@ -271,10 +271,16 @@ color:white;
     }
     #contenido{
      width:100%;
+     background-size:cover;
+    background-attachment:fixed;
+    position:relative;
      box-sizing:border-box;
     }
     #bloque{
     width:100%;
+    background-size:cover;
+    background-attachment:fixed;
+    position:relative;
     box-sizing:border-box;
         }
 header{
@@ -282,6 +288,9 @@ header{
    box-sizing:border-box; 
     }
  .main{
+     background-size:cover;
+    background-attachment:fixed;
+    position:relative;
      width:100%;
    box-sizing:border-box; 
     }
@@ -314,10 +323,16 @@ color:white;
     }
     #contenido{
      width:100%;
+     background-size:cover;
+    background-attachment:fixed;
+    position:relative;
      box-sizing:border-box;
     }
     #bloque{
     width:100%;
+    background-size:cover;
+    background-attachment:fixed;
+    position:relative;
     box-sizing:border-box;
         }
 header{
@@ -326,6 +341,9 @@ header{
     }
  .main{
      width:100%;
+   background-size:cover;
+    background-attachment:fixed;
+    position:relative; 
    box-sizing:border-box; 
     }
     
