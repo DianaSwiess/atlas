@@ -37,6 +37,8 @@ box-sizing:border-box;}
 #bloque{
      background-image:url(../imagen/jardin6.jpg);
      background-size:cover;
+    background-attachment:fixed;
+    position:relative;
     width:80%;
     height:350px;
     margin: auto;
