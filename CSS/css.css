@@ -27,7 +27,7 @@ position:relative;
 background-repeat:no-repeat;
 box-sizing:border-box;}
 
-   .contenedor{width:100%;
+   .contenedor{width:80%;
   box-shadow: 0 0 12px rgba(0, 0, 0,0.8);
    max-width:1440px;
     margin:0 auto;
@@ -50,9 +50,6 @@ box-sizing:border-box;}
     box-sizing:border-box;
 }
 
-
-
-
 #cabecera{width:100%; 
 height:60px; 
 background-color:cadetblue;
@@ -67,7 +64,7 @@ box-sizing:border-box;
 img{
     margin: auto;
     margin-top:20px;
-    margin-left:15%;
+    margin-left:20%;
     margin-right:0%;
     margin-bottom:0px;
     height: 100px;
