@@ -216,10 +216,16 @@ color:white;
     }
     #contenido{
      width:100%;
+      background-size:cover;
+    background-attachment:fixed;
+    position:relative;   
      box-sizing:border-box;
     }
     #bloque{
     width:100%;
+        background-size:cover;
+    background-attachment:fixed;
+    position:relative; 
     box-sizing:border-box;
         }
     
@@ -229,6 +235,9 @@ header{
     }
  .main{
      width:100%;
+      background-size:cover;
+    background-attachment:fixed;
+    position:relative;
    box-sizing:border-box; 
     }
     
